@@ -33,7 +33,7 @@
 - Edited and placed ads on Facebook and Instagram, used email to re-target customers; made strategic decisions and improvements during the major events.
 
 #### Language: Cantonese; Mandarin; English
-![CAT](/assets/img/profile.JPG)
+![CAT](/assets/profile.JPG)
 
 
 
