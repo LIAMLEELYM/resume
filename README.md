@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Tableau, R, SAS Miner
 
 ## Education							       		
-- M.S., Business Information Systems	| City University of Hong Kong (_June 2024_)	 			        		
+- M.S., Business Information Systems | City University of Hong Kong (_June 2024_)	 			        		
 - B.S., Economics | Sun Yat-Sen University  (_June 2021_)
 
 ## Work Experience
@@ -33,7 +33,6 @@
 - Edited and placed ads on Facebook and Instagram, used email to re-target customers; made strategic decisions and improvements during the major events.
 
 #### Language: Cantonese; Mandarin; English
-![CAT](/assets/profile.JPG)
 
 
 
