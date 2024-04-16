@@ -1,6 +1,6 @@
 # My Resume
 
-#### Technical Skills: Python, Tableau, R, SAS Miner
+#### Technical Skills: Stata, Python, Tableau, R, SAS Miner, MS Office Package
 
 ## Education							       		
 - M.S., Business Information Systems | City University of Hong Kong (_June 2024_)	 			        		
