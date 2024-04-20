@@ -1,6 +1,6 @@
 # My Resume
 
-#### Technical Skills: Stata, Python, Tableau, R, SAS Miner, MS Office Package
+#### Technical Skills: Stata, Python, Tableau, R, SAS Miner, Machine Learing(Projects showed in the Projects Page) MS Office Package
 
 ## Education							       		
 - M.S., Business Information Systems | City University of Hong Kong (_June 2024_)	 			        		
@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Internship: Mylink Centre Business Development Assistant @ CHINA MOBILE HONGKONG (_September 2023 - Present_)**
-- Supporting the sale data analysis of products on the Mylink platform.
+- Supporting the sale data analysis of products on the Mylink platform, such as GMV, and gross profit.
 - Assist in uploading and optimizing the new product details on the Mylink platform.
 - Provide help in the analysis of data errors and duplicate distribution in the sale of e-coupons on the Mylink platform.
 
