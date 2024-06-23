@@ -7,7 +7,7 @@
 - Bachelor, Economics | Sun Yat-Sen University  (_June 2021_)
 
 ## WORK EXPERIENCE
-**Business Operations Officer @ CLPS Global (_June 2024 - Present_)**
+**Business Operations Officer @ CLPS GLOGAL (_June 2024 - Present_)**
 - Assist in managing daily global business operations; 
 - Monitor end-to-end operations such as CRM records, order fulfillment records, email records, and system records.
 - Conduct research and data analysis to support business planning.
@@ -15,7 +15,7 @@
 - Support the implementation of operational policies, procedures, and guidelines.
 - Collaborate with different functional departments to verify data accuracy as needed.
 
-**Internship: Mylink Centre Business Development Assistant @ CHINA MOBILE HONG KONG (_September 2023 - June 2024_)**
+**Internship: Mylink Centre Business Development Role @ CHINA MOBILE HONG KONG (_September 2023 - June 2024_)**
 - Contributed to efficient data operations by assisting with regular data tasks, and assisted in analyzing the platform sales data such as GMV, and gross profit to identify monthly sales trends.
 - Provided support for sales activities and roadshows, ensuring the smooth running of events.
 
