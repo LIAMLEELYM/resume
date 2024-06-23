@@ -1,27 +1,28 @@
 # My Resume
 
-#### Technical Skills: Advanced business data analysis skills in Python, SAS Miner, and Stata, with experience in machine learning. Proficient in data visualization using R and Tableau. Capable of utilizing SQL (Data analysis projects showcased on the Projects page)
+#### Technical Skills: Advanced business data analysis skills in Python and SAS E-Miner, with experience in machine learning. Proficient in data visualization using Tableau. Capable of utilizing SQL (Data analysis projects showcased on the Projects page)
 
-## Education							       		
+## EDUCATION BACKGROUND							       		
 - MSc., Business Information Systems | City University of Hong Kong (_June 2024_)	 			        		
 - Bachelor, Economics | Sun Yat-Sen University  (_June 2021_)
 
-## Work Experience
-**Internship: Mylink Centre Business Development Assistant @ CHINA MOBILE HONGKONG (_September 2023 - Present_)**
+## WORK EXPERIENCE
+**Business Operations Officer @ CLPS Global (_June 2024 - Present_)**
+-Assist in managing daily global business operations; 
+-Monitor end-to-end operations such as CRM records, order fulfilment records, email records and system records;
+-Conduct research and data analysis to support business planning; 
+-Prepare reports with accurate data for management review;
+-Support the implementation of operational policies, procedures, and guidelines;
+-Collaborate with different functional departments to verify data accuracy as needed;
+
+**Internship: Mylink Centre Business Development Assistant @ CHINA MOBILE HONG KONG (_September 2023 - June 2024_)**
 - Contributed to efficient data operations by assisting with regular data tasks, and assisted in analyzing the platform sales data such as GMV, and gross profit to identify monthly sales trends.
 - Provided support for sales activities and roadshows, ensuring the smooth running of events.
 
-**Trade Marketing Sales Operation Officer @ YEO HIAP SENG LTD (_November 2022 - July 2023_)**
-- Handle part of the E-Commerce channels, budget management of the EC sales events, track KPIs, and create action plans about product launches, pricing, and promotions. Result in achieving quarterly sales revenue targets within the budget.
-- Conducted comprehensive sales research on retailers in the China market, analyzing product market share across regional channels. Utilized research to gain insights into market dynamics and strategically adjusted sales approaches.
-
-**Sales Operation Assistant @ SINO GROUP (_April 2021 - October 2022_)**
+**Sales Operations Assistant @ SINO GROUP (_April 2021 - October 2022_)**
 - Employed history data and market trends to generate reliable sales forecasts, consistently achieving around 80% accuracy rate in monthly sales demand predictions.
 - Regularly prepared comprehensive reports on sales performance, campaign results, and key metrics. Identifying bottlenecks and inefficiencies in the sales process.
 - Collaborated cross-functionally with product, marketing, and sales teams to develop effective go-to-market models for new products and campaigns. Ensure the campaigns timely delivery within budget constraints and provide support for the expansion of operation and sales solutions.
-
-**Internship: Administrative Assistant @ GUOSEN SECURITIES CO LTD (_June 2020 - August 2020_)**
-- Accurately enters data related to financial documents, carefully manages documents, and maintains accurate records.
 
 ## ENTREPRENEURIAL EXPERIENCE
 **Founder, Product Operation & Digital Marketing @ FOEDUS TRADING LTD (_September 2020 - March 2021_)**
