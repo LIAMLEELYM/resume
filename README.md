@@ -24,7 +24,7 @@
 - Collaborated cross-functionally with product, marketing, and sales teams to develop effective go-to-market models for new products and campaigns. Ensure the campaigns' timely delivery within budget constraints and provide support for the expansion of operation and sales solutions.
 
 ## PUBLICATIONS
-**User Acceptance of Blockchain Technology in Financial Applications: Information Security, Technology Awareness and Privacy Aspects @MDPI
+**User Acceptance of Blockchain Technology in Financial Applications: Information Security, Technology Awareness and Privacy Aspects @ MDPI (_August 2024_)**
 The research investigated the factors that influence customer acceptance of blockchain technology in financial applications. The findings provide valuable insights that can help increase people's adoption and use of blockchain-powered financial services.
 
 ## ENTREPRENEURIAL EXPERIENCE
