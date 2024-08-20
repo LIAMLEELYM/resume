@@ -8,12 +8,11 @@
 
 ## WORK EXPERIENCE
 **Business Operations Officer @ CLPS GLOGAL (_June 2024 - Present_)**
-- Assist in managing daily global business operations; 
-- Monitor end-to-end operations such as CRM records, order fulfillment records, email records, and system records.
-- Conduct research and data analysis to support business planning.
-- Prepare reports with accurate data for management review.
-- Support the implementation of operational policies, procedures, and guidelines.
-- Collaborate with different functional departments to verify data accuracy as needed.
+- Assist in managing daily global business operations, Supporting international business including HK, Japan, and USA regions, Monitoring the team performance by region, generating comprehensive monthly analysis reports, and cross-referencing multiple data sources;
+- Monitor and review business fulfillment status and data updates, and make sure information is uploaded and maintained accurately, ensure all business data are properly stored and synchronized within the system.
+- Conduct research and data analysis to support business planning and prepare reports with accurate data for management review;
+- Support the implementation of operational policies, procedures, and guidelines;
+- Collaborate with different functional departments to verify data accuracy as needed;
 
 **Internship: Mylink Centre Business Development Role @ CHINA MOBILE HONG KONG (_September 2023 - June 2024_)**
 - Contributed to efficient data operations by assisting with regular data tasks, and assisted in analyzing the platform sales data such as GMV, and gross profit to identify monthly sales trends.
@@ -23,6 +22,10 @@
 - Employed history data and market trends to generate reliable sales forecasts, consistently achieving around 80% accuracy rate in monthly sales demand predictions.
 - Regularly prepared comprehensive reports on sales performance, campaign results, and key metrics. Identifying bottlenecks and inefficiencies in the sales process.
 - Collaborated cross-functionally with product, marketing, and sales teams to develop effective go-to-market models for new products and campaigns. Ensure the campaigns' timely delivery within budget constraints and provide support for the expansion of operation and sales solutions.
+
+## PUBLICATIONS
+**User Acceptance of Blockchain Technology in Financial Applications: Information Security, Technology Awareness and Privacy Aspects @MDPI
+The research investigated the factors that influence customer acceptance of blockchain technology in financial applications. The findings provide valuable insights that can help increase people's adoption and use of blockchain-powered financial services.
 
 ## ENTREPRENEURIAL EXPERIENCE
 **Founder, Product Operation & Digital Marketing @ FOEDUS TRADING LTD (_September 2020 - March 2021_)**
