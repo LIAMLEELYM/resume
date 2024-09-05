@@ -5,9 +5,4 @@ show_downloads: false
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
-footer:
-  show: false
-custom_css: |
-  footer {
-      display: none; /* Hides the entire footer */
-  }
+
