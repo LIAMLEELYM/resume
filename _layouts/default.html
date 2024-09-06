@@ -8,27 +8,6 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
-    <style>
-        header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 10px;
-            background-color: #f8f8f8; /* Optional: Change header background color */
-        }
-        nav {
-            text-align: right; /* Aligns nav links to the right */
-        }
-        nav a {
-            margin: 0 15px;
-            text-decoration: none;
-            color: black; /* Sets link color to black */
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
-    </style>
-
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -42,13 +21,6 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <nav>
-                <a href="https://https://liamleelym.github.io/leeyatming//">Home</a>
-                <a href="https://https://liamleelym.github.io/leeyatming/blog/">Blog</a>
-                <a href="https://liamleelym.github.io/leeyatming/projects/">Projects</a>
-                <a href="https://liamleelym.github.io/leeyatming/about/">Projects</a>
-            </nav>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
