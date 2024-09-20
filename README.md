@@ -1,8 +1,8 @@
 <div style="text-align: right;">
-    <a href="https://liamleelym.github.io/leeyatming/" style="display: inline-block; padding: 10px 20px; font-size: 16px; text-decoration: none;">Home</a>
-    <a href="https://liamleelym.github.io/leeyatming/blog/" style="display: inline-block; padding: 10px 20px; font-size: 16px; text-decoration: none;">Blog</a>
-    <a href="https://liamleelym.github.io/leeyatming/projects/" style="display: inline-block; padding: 10px 20px; font-size: 16px; text-decoration: none;">Projects</a>
-    <a href="https://liamleelym.github.io/leeyatming/about/" style="display: inline-block; padding: 10px 20px; font-size: 16px; text-decoration: none;">About</a>
+    <a href="https://liamleelym.github.io/leeyatming/" style="display: inline-block; padding: 20px 10px; font-size: 16px; text-decoration: none;">Home</a>
+    <a href="https://liamleelym.github.io/leeyatming/blog/" style="display: inline-block; padding: 20px 10px; font-size: 16px; text-decoration: none;">Blog</a>
+    <a href="https://liamleelym.github.io/leeyatming/projects/" style="display: inline-block; padding: 20px 10px; font-size: 16px; text-decoration: none;">Projects</a>
+    <a href="https://liamleelym.github.io/leeyatming/about/" style="display: inline-block; padding: 20px 10px; font-size: 16px; text-decoration: none;">About</a>
 </div>
 
 # My Resume
