@@ -1,8 +1,8 @@
 <div style="text-align: right;">
-    <a href="https://liamleelym.github.io/leeyatming/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #4285F4; border-radius: 5px; text-decoration: none; margin-left: 10px;">Home</a>
-    <a href="https://liamleelym.github.io/leeyatming/blog/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #4285F4; border-radius: 5px; text-decoration: none; margin-left: 10px;">Blog</a>
-    <a href="https://liamleelym.github.io/leeyatming/projects/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #FF0000; border-radius: 5px; text-decoration: none;">Projects</a>
-    <a href="https://liamleelym.github.io/leeyatming/about/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #FF0000; border-radius: 5px; text-decoration: none;">About</a>
+    <a href="https://liamleelym.github.io/leeyatming/" style="display: inline-block; padding: 10px 20px; font-size: 1.4rem; text-decoration: none;">Home</a>
+    <a href="https://liamleelym.github.io/leeyatming/blog/" style="display: inline-block; padding: 10px 20px; font-size: 1.4rem; text-decoration: none;">Blog</a>
+    <a href="https://liamleelym.github.io/leeyatming/projects/" style="display: inline-block; padding: 10px 20px; font-size: 1.4rem; text-decoration: none;">Projects</a>
+    <a href="https://liamleelym.github.io/leeyatming/about/" style="display: inline-block; padding: 10px 20px; font-size: 1.4rem; text-decoration: none;">About</a>
 </div>
 
 # My Resume
