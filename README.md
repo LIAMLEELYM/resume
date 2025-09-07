@@ -14,7 +14,8 @@
 - Bachelor, Economics | Sun Yat-Sen University  (_June 2021_)
 
 ## WORK EXPERIENCE
-**Business Operations Officer @ CLPS GLOGAL (_June 2024 - Present_)**
+**Senior Business Operations Officer @ CLPS GLOGAL (_July 2025 - Present_)**
+**Business Operations Officer @ CLPS GLOGAL (_June 2024 - July 2025_)**
 - Assist in managing daily global business operations, Supporting international business including HK, Japan, and USA regions, Monitoring the team performance by region, generating comprehensive monthly analysis reports, and cross-referencing multiple data sources;
 - Monitor and review business fulfillment status and data updates, and make sure information is uploaded and maintained accurately, ensure all business data are properly stored and synchronized within the system.
 - Conduct research and data analysis to support business planning and prepare reports with accurate data for management review;
